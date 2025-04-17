@@ -16,7 +16,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Knowledge Check Question" />
+              <option name="title_text" value="Knowledge Check" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -52,8 +52,8 @@
       <optiongroup name="menuoptions">
         <options>
           <option name="flow" value="free" />
-          <option name="wraplistitems" value="false" />
-          <option name="tooltips" value="true" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="false" />
           <option name="autocollapse" value="true" />
           <option name="autonumber" value="false" />
           <option name="enableresultsicons" value="true" />
@@ -1672,8 +1672,9 @@
       <links>
         <slidelink slideid="_player.6rKoqn6mLGe" displaytext="Knowledge Check" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6rKoqn6mLGe.6pLTHYBAM6w" displaytext="In typical initial funding rounds, how much money can a startup expect and how much equity should it give in exchange? " expand="false" type="slide" />
-            <slidelink slideid="_player.6rKoqn6mLGe.6ozpyUThIpk" displaytext="In typical initial funding rounds, this is how much money a startup can expect and how much equity it should give in exchange:" expand="false" type="slide" />
+            <slidelink slideid="_player.6rKoqn6mLGe.6pLTHYBAM6w" displaytext="Knowledge Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6rKoqn6mLGe.6XC5a0lhtfR" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6rKoqn6mLGe.6S4lIOnE6vF" displaytext="Sarah&amp;apos;s tech startup has a working prototype, has generated some early user interest, and is now seeking $3 million to scale its team, refine its product, and begin more significant marketing efforts. What approximate percentage of her company&amp;apos;s equity might Sarah offer investors in this funding round?" expand="false" type="slide" />
             <slidelink slideid="_player.6rKoqn6mLGe.6MjcRsDr0w8" displaytext="Thank you" expand="false" type="slide" />
           </links>
         </slidelink>
